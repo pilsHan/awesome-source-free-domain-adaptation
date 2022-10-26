@@ -1,6 +1,6 @@
 # awesome-source-free-domain-adaptation
 
-# ECCV 2022
+## ECCV 2022
 **BMD: A General Class-balanced Multicentric Dynamic Prototype Strategy for Source-free Domain Adaptation**  [paper](https://arxiv.org/abs/2204.02811)  [code](https://github.com/ispc-lab/BMD)
 
 **Uncertainty-guided Source-free Domain Adaptation**  [paper](https://arxiv.org/abs/2208.07591)  [code](https://github.com/roysubhankar/uncertainty-sfda)
