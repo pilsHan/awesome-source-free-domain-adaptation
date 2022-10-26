@@ -40,8 +40,8 @@
   - **Adaptive Adversarial Network for Source-Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xia_Adaptive_Adversarial_Network_for_Source-Free_Domain_Adaptation_ICCV_2021_paper.pdf) / code]
   - **Generalized Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2108.01614) / [code](https://github.com/Albert0147/G-SFDA)]
 
-## ICML 2021
- - ****  [[paper]() / [code]()]
- - ****  [[paper]() / [code]()]
+## CVPR 2021
+ - **Source-Free Domain Adaptation for Semantic Segmentation**  [[paper](https://arxiv.org/abs/2103.16372) / code]
+ - **Unsupervised Multi-Source Domain Adaptation Without Access to Source Data**  [[paper](https://arxiv.org/abs/2104.01845) / [code](https://github.com/driptaRC/DECISION)]
  - ****  [[paper]() / [code]()]
   
