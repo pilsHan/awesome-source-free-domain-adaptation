@@ -1,5 +1,10 @@
 # awesome-source-free-domain-adaptation
 
+## NeurIPS 2022
+ - **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning**  [paper / code]
+ - **Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation**  [[paper](https://arxiv.org/abs/2205.04183) / [code](https://github.com/Albert0147/AaD_SFDA)]
+ - **Variational Model Perturbation for Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2210.10378) / [code](https://github.com/mmjing/variational_model_perturbation)]
+
 ## ECCV 2022
  - **BMD: A General Class-balanced Multicentric Dynamic Prototype Strategy for Source-free Domain Adaptation**  [[paper](https://arxiv.org/abs/2204.02811) / [code](https://github.com/ispc-lab/BMD)]
 
