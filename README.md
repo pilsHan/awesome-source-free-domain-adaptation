@@ -24,3 +24,14 @@
 ## WACV 2022
  - **Cleaning Noisy Labels by Negative Ensemble Learning for Source-Free Unsupervised Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ahmed_Cleaning_Noisy_Labels_by_Negative_Ensemble_Learning_for_Source-Free_Unsupervised_WACV_2022_paper.pdf) / code]
  - **Unsupervised Robust Domain Adaptation without Source Data**  [[paper](https://arxiv.org/abs/2103.14577) / [code](https://github.com/Albert0147/BAIT_SFUDA)]
+
+
+## NeurIPS 2021
+ - **Confident-Anchor-Induced Multi-Source-Free Domain Adaptation**  [[paper](https://proceedings.neurips.cc/paper/2021/file/168908dd3227b8358eababa07fcaf091-Paper.pdf) / [code](https://github.com/Learning-group123/CAiDA)]
+  - **Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data**  [[paper](https://arxiv.org/abs/2110.03374) / [code](https://github.com/jxhuang0508/HCL)]
+  - **Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation**  [[paper](https://arxiv.org/abs/2110.04202) / [code](https://github.com/Albert0147/NRC_SFDA)]
+  
+## ICCV 2021
+  - ****  [[paper]() / [code]()]
+  - ****  [[paper]() / [code]()]
+  
