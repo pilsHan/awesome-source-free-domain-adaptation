@@ -50,3 +50,6 @@
   
 ## ICML 2020
  - **Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation**  [[paper](http://proceedings.mlr.press/v119/liang20a.html) / [code](https://github.com/tim-learn/SHOT)]
+
+## CVPR 2020
+ - **UNIVERSAL SOURCE-FREE DOMAIN ADAPTATION**  [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) / [code](https://sites.google.com/view/usfda-cvpr2020)]
