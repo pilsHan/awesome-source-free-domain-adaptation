@@ -13,6 +13,10 @@
 
 - **Cross-Modal Knowledge Transfer Without Task-Relevant Source Data**  [[paper](https://arxiv.org/abs/2209.04027) / [code](https://github.com/merlresearch/SOCKET)]
 
+## ICML 2022
+ - **Balancing Discriminability and Transferability for Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.08009) / [code](https://sites.google.com/view/mixup-sfda)]
+ - **Confidence Score for Source-Free Unsupervised Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.06640) / code]
+
 ## CVPR 2022
  - **Source-Free Domain Adaptation via Distribution Estimation**  [[paper](https://arxiv.org/abs/2204.11257) / code]
  - **Exploring Domain-Invariant Parameters for Source Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.pdf) / code]
@@ -36,5 +40,8 @@
   - **Adaptive Adversarial Network for Source-Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xia_Adaptive_Adversarial_Network_for_Source-Free_Domain_Adaptation_ICCV_2021_paper.pdf) / code]
   - **Generalized Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2108.01614) / [code](https://github.com/Albert0147/G-SFDA)]
 
-
+## ICML 2021
+ - ****  [[paper]() / [code]()]
+ - ****  [[paper]() / [code]()]
+ - ****  [[paper]() / [code]()]
   
