@@ -13,4 +13,7 @@
 
 - **Cross-Modal Knowledge Transfer Without Task-Relevant Source Data**  [[paper](https://arxiv.org/abs/2209.04027) / [code](https://github.com/merlresearch/SOCKET)]
 
-
+## CVPR 2022
+ - **Source-Free Domain Adaptation via Distribution Estimation**  [[paper](https://arxiv.org/abs/2204.11257) / code]
+ - **Exploring Domain-Invariant Parameters for Source Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.pdf) / code]
+ - **Source-Free Object Detection by Learning To Overlook Domain Style**  [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Source-Free_Object_Detection_by_Learning_To_Overlook_Domain_Style_CVPR_2022_paper.html) / [code](https://github.com/Flashkong/Source-Free-Object-Detection-by-Learning-to-Overlook-Domain-Style)]
