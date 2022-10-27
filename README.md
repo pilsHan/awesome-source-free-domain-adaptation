@@ -2,7 +2,9 @@
 
 ## NeurIPS 2022
  - **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning**  [paper / code]
+ 
  - **Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation**  [[paper](https://arxiv.org/abs/2205.04183) / [code](https://github.com/Albert0147/AaD_SFDA)]
+ 
  - **Variational Model Perturbation for Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2210.10378) / [code](https://github.com/mmjing/variational_model_perturbation)]
 
 ## ECCV 2022
@@ -20,11 +22,14 @@
 
 ## ICML 2022
  - **Balancing Discriminability and Transferability for Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.08009) / [code](https://sites.google.com/view/mixup-sfda)]
+ 
  - **Confidence Score for Source-Free Unsupervised Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.06640) / code]
 
 ## CVPR 2022
  - **Source-Free Domain Adaptation via Distribution Estimation**  [[paper](https://arxiv.org/abs/2204.11257) / code]
+ 
  - **Exploring Domain-Invariant Parameters for Source Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.pdf) / code]
+ 
  - **Source-Free Object Detection by Learning To Overlook Domain Style**  [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Source-Free_Object_Detection_by_Learning_To_Overlook_Domain_Style_CVPR_2022_paper.html) / [code](https://github.com/Flashkong/Source-Free-Object-Detection-by-Learning-to-Overlook-Domain-Style)]
 
 ## ICLR 2022
@@ -32,25 +37,32 @@
 
 ## WACV 2022
  - **Cleaning Noisy Labels by Negative Ensemble Learning for Source-Free Unsupervised Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ahmed_Cleaning_Noisy_Labels_by_Negative_Ensemble_Learning_for_Source-Free_Unsupervised_WACV_2022_paper.pdf) / code]
+ 
  - **Unsupervised Robust Domain Adaptation without Source Data**  [[paper](https://arxiv.org/abs/2103.14577) / [code](https://github.com/Albert0147/BAIT_SFUDA)]
 
 
 ## NeurIPS 2021
  - **Confident-Anchor-Induced Multi-Source-Free Domain Adaptation**  [[paper](https://proceedings.neurips.cc/paper/2021/file/168908dd3227b8358eababa07fcaf091-Paper.pdf) / [code](https://github.com/Learning-group123/CAiDA)]
+ 
   - **Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data**  [[paper](https://arxiv.org/abs/2110.03374) / [code](https://github.com/jxhuang0508/HCL)]
+  
   - **Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation**  [[paper](https://arxiv.org/abs/2110.04202) / [code](https://github.com/Albert0147/NRC_SFDA)]
   
 ## ICCV 2021
   - **Generalize Then Adapt: Source-Free Domain Adaptive Semantic Segmentation**  [[paper](https://arxiv.org/abs/2108.11249) / [code](https://sites.google.com/view/sfdaseg)]
+  
   - **Adaptive Adversarial Network for Source-Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xia_Adaptive_Adversarial_Network_for_Source-Free_Domain_Adaptation_ICCV_2021_paper.pdf) / code]
+  
   - **Generalized Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2108.01614) / [code](https://github.com/Albert0147/G-SFDA)]
 
 ## CVPR 2021
  - **Source-Free Domain Adaptation for Semantic Segmentation**  [[paper](https://arxiv.org/abs/2103.16372) / code]
+ 
  - **Unsupervised Multi-Source Domain Adaptation Without Access to Source Data**  [[paper](https://arxiv.org/abs/2104.01845) / [code](https://github.com/driptaRC/DECISION)]
  
 ## AAAI 2021
  - **A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data**  [[paper](https://arxiv.org/abs/2012.05400) / code]
+ 
  - **Denoised Maximum Classifier Discrepancy for Source-Free Unsupervised Domain Adaptation**  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/19925) / code]
   
 ## ICML 2020
