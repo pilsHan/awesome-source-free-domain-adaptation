@@ -1,7 +1,7 @@
 # awesome-source-free-domain-adaptation
 
 ## NeurIPS 2022
- - **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning**  [paper / code]
+ - **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning**  [[paper](https://openreview.net/pdf?id=NjImFaBEHl) / [code](https://github.com/ZyeZhang/DaC)]
  
  - **Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation**  [[paper](https://arxiv.org/abs/2205.04183) / [code](https://github.com/Albert0147/AaD_SFDA)]
  
