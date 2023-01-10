@@ -1,5 +1,14 @@
 # awesome-source-free-domain-adaptation
 
+## WACV 2023
+ - **Generative Alignment of Posterior Probabilities for Source-free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chhabra_Generative_Alignment_of_Posterior_Probabilities_for_Source-Free_Domain_Adaptation_WACV_2023_paper.pdf) / code]
+ 
+  - **SALAD : Source-free Active Label-Agnostic Domain Adaptation for Classification, Segmentation and Detection**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kothandaraman_SALAD_Source-Free_Active_Label-Agnostic_Domain_Adaptation_for_Classification_Segmentation_and_WACV_2023_paper.pdf) / code]
+  
+   - **CoNMix for Source-free Single and Multi-target Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.pdf) / [code](https://sites.google.com/view/conmix-vcl)]
+   
+   - **Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Shenaj_Learning_Across_Domains_and_Devices_Style-Driven_Source-Free_Domain_Adaptation_in_WACV_2023_paper.pdf) / [code](https://github.com/Erosinho13/LADD)]
+
 ## ICLR 2023
  - **E^2: Entropy Discrimination and Energy Optimization for Source-free Universal Domain Adaptation**  [[paper](https://openreview.net/pdf?id=FMEXgK9-I8) / code]
 
